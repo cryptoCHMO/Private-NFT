@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 5 (Deploy Private NFT)
+# Swisstronik Tesnet Techinal Task 5 (Deploy Private NFT) thx Mnuralim
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
